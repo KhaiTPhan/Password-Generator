@@ -38,3 +38,6 @@ Comments
 
 Unfortunately, ran out of time and couldn't get the different character options to work.
 
+Link to page
+
+https://khaitphan.github.io/Password-Generator/
