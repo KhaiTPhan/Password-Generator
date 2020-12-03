@@ -37,3 +37,4 @@ THEN the password is either displayed in an alert or written to the page
 Comments
 
 Unfortunately, ran out of time and couldn't get the different character options to work.
+
