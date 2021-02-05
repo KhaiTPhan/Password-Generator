@@ -8,48 +8,26 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    
-    <!--- Putting in the wrapper --->
-
-
     <div class="wrapper">
       <header>
         <h1>Password Generator</h1>
       </header>
       <div class="card">
         <div class="card-header">
-          <h2>Password Criteria</h2>
+          <h2>Generate a Password</h2>
         </div>
         <div class="card-body">
-        
-          <!--- Setting length of password --->  
-
-          <h4>Choose the length of your password</h4>
-          <p>Must be a minimum of 8 characters and maximum of 128 characters</p>
-          
-          <input type="range" min="8" max="128" name="slider" id="slider">
-          <p id="length"></p>
-          
-          <h4>Character types included in the password</h4>
-          <p>Generated password includes lowercase letters, upper case letters, numeric and special characters.</p>
-            
-
-          <!--- Generating the password in the text area ---> 
-
-          <div class="card-footer">
-            <button onclick="generate()" id="generate" class="btn">Generate Password</button>
-          </div>
-
           <textarea
             readonly
             id="password"
             placeholder="Your Secure Password"
             aria-label="Generated Password"
-          
-                      ></textarea>
-                </div>
-        
-              </div>
+          ></textarea>
+        </div>
+        <div class="card-footer">
+          <button id="generate" class="btn">Generate Password</button>
+        </div>
+      </div>
     </div>
     <script src="script.js"></script>
   </body>

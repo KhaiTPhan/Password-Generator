@@ -17,7 +17,6 @@ body {
   background-color: #f9fbfd;
 }
 
-
 .wrapper {
   padding-top: 30px;
   padding-left: 20px;
@@ -72,12 +71,6 @@ header {
   display: block;
   clear: both;
 }
-
-
-#slider {
-  width: 100%;
-}
-
 
 .btn {
   border: none;
