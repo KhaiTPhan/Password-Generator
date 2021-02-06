@@ -17,7 +17,8 @@ Key features of this app includes:
 
 ## Screenshots
 
-![Password Generator](https://user-images.githubusercontent.com/74043730/107118833-84c9b100-68d7-11eb-9811-4cb5931553e7.gif)
+![password](https://user-images.githubusercontent.com/74043730/107118981-9cee0000-68d8-11eb-9cb4-100306e1e1f3.gif)
+
 ## Link to page
 
 https://khaitphan.github.io/Password-Generator/
