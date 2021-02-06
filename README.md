@@ -16,7 +16,7 @@ Key features of this app includes:
 - CSS
 
 ## Screenshots
-![password](https://user-images.githubusercontent.com/74043730/107030706-203e2180-6805-11eb-99cc-25d7f767bc3e.PNG)
+
 ![Password Generator](https://user-images.githubusercontent.com/74043730/107118833-84c9b100-68d7-11eb-9811-4cb5931553e7.gif)
 ## Link to page
 
