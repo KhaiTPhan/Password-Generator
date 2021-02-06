@@ -71,8 +71,8 @@ function writePassword() {
   var password = "";
 
 //create for loop to choose password characters
-  for(var i = 0; i <= passwordLength; i++) {
-  password = password + values.charAt(Math.floor(Math.random() * Math.floor(values.length - 1)));
+  for(var i = 0; i <= passwordLength-1; i++) {
+  password = password + values.charAt(Math.floor(Math.random() * Math.floor(values.length)));
 }
 
   var passwordText = document.querySelector("#password");
